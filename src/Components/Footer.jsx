@@ -83,7 +83,7 @@ function Footer() {
       <div className='text-center p-4' style={{ backgroundColor: 'rgba(0, 0, 0, 0.05)' }}>
         © Copyright:
         <a className='text-reset fw-bold' href='https://mdbootstrap.com/'>
-          Media-player.com
+          e-cart.com
         </a>
       </div>
     </MDBFooter>
